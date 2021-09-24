@@ -37,9 +37,9 @@
   - Signup Page              [ Apexa Mistry ]
   - Home Page  / About Us    [ Arshdeep Keshav / Palak Arora ]  
   - Tabs 
-    - [ Land Post ]          [ Shivangi Shandilya / Palak Arora ]
-    - [ Machinery Post ]     [ Shivangi Shandilya / Palak Arora ]
-    - (Note #) search/filter buttons  [User should have option to clear the search]  
+    - [ Land Post ]          [ Shivangi Shandilya ]
+    - [ Machinery Post ]     [ Shivangi Shandilya ]
+    - (Note #) search/filter buttons  [User should have option to clear the search]  [Shivangi Shandilya]
 
   - details post [ for selected post(land/machinery) ]   [ Apexa Mistry  ]
   - Checkout ( Paypal Integration ) [ Arshdeep Keshav ] 
